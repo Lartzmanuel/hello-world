@@ -11,3 +11,7 @@ let me show you some C++ codes
 `using namespace std;`
 My full name in Bold text **Lartey Emmanuel Teye**
 I like eating rice and *chicken*. Notice chicken has been italicised
+
+## Hey, Emmanuel here!
+So I have learnt to create a new repo, start and merge a new branch, make changes to a file and push them to Github as commits, open and merge pull requests
+This is basically me just redoing everything just to get myself abreast
